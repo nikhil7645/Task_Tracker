@@ -92,5 +92,5 @@ Make sure `json.hpp` is in the same directory as your source file.
 
 ## 👨‍💻 Author
 
-Made with ❤️ in C++ by [Your Name]  
+Made with ❤️ in C++ by [Nikhil]  
 Feel free to fork, use, and improve it!
